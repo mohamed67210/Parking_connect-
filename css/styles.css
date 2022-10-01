@@ -1,0 +1,109 @@
+h1
+{
+    font-family: 'Holtwood One SC', sans-serif;
+    color: #4CBCAD;
+    text-shadow: 2px 2px #374644;
+    font-size: 60px;
+    padding: 30px 0px;
+    text-align: center;
+}
+h1 .glyphicon
+{
+    color: #ffd301;
+    text-shadow: 1px 0px #ffd301;
+}
+h2
+{
+    
+    color: #CDEDE9;
+    text-shadow: 1px 2px #374644;
+    font-size: 10px;
+    padding: 5px 0px;
+    text-align: center;
+}
+h4
+{
+   color:white;
+}
+/*th
+{
+    font-family: 'Holtwood One SC', sans-serif;
+    font-size: 15px;
+    text-shadow: 1px 1px #374644;
+    color: #4CBCAD;
+}*/
+.index
+{
+    background: url(../images/bg.jpg);
+    background-size: cover;
+}
+.page
+{
+     background: url(../images/page1.jpg);
+     background-size: cover;
+}
+.voirplace
+{
+    background: url(../images/page1.jpg);
+    background-size: cover;
+}
+.contact
+{
+    background: url(../images/D1401_001_16_9_1920_1x.jpg);
+    background-size: cover;
+}
+
+.h2contact
+{
+    font-size: 30px;
+    text-shadow: 1px 1px #374644;
+    color: #4CBCAD;
+}
+.pcontact
+{
+    font-size: 20px;
+    text-shadow: 1px 1px #000000;
+    color: wheat;
+}
+.labelcontact
+{
+    font-size: 20px;
+    text-shadow: 1px 1px #000000;
+    color: wheat;
+}
+label
+{
+    font-size: 15px;
+    text-shadow: 1px 1px #374644;
+    color: #4CBCAD;
+}
+label .glyphicon
+{
+    color: black;
+    
+}
+/*.container-fluid
+{
+    border-style: ridge;
+}*/
+.mb-0
+{
+    font-size: 20px;
+    text-shadow: 1px 1px #000000;
+    color: wheat;
+}
+.pagesupprimervehicule
+{
+    background: url(../images/page1.jpg);
+    background-size: cover;
+}
+.pagedeletereservation
+{
+    background: url(../images/page1.jpg);
+    background-size: cover;
+}
+.pageajoutervehicule
+{
+    background: url(../images/page1.jpg);
+    background-size: cover;
+}
